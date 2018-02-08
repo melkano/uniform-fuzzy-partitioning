@@ -1,5 +1,5 @@
 # Uniform Fuzzy Partitioning
-Spark-based fuzzy partitioning method for reducing the complexity of multi-way fuzzy decision trees
+Spark-based fuzzy partitioning method for reducing the complexity of multi-way fuzzy decision trees in Big Data classification problems
 
 (see header_example.header and data_example.data to get details about input data format)
 
