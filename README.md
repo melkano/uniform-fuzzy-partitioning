@@ -1,7 +1,7 @@
 # Uniform Fuzzy Partitioning
 Spark-based fuzzy partitioning method for reducing the complexity of multi-way fuzzy decision trees in Big Data classification problems.
 
-See "header_example.header" and "data_example.data" for details on input data format. For further information visit KEEL's webpage (http://sci2s.ugr.es/keel/datasets.php).
+For details on input data format see "header_example.header" and "data_example.data". For further information visit KEEL's webpage (http://sci2s.ugr.es/keel/datasets.php).
 
 References: 
 
